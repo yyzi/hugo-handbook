@@ -17,18 +17,11 @@ Github地址：https://github.com/rootsongjc/hugo-handbook
 
 ## 致谢
 
-[Algolia](https://www.algolia.com)
-
-[Cloudinary](https://cloudinary.com)
-
-[Cloudflare](https://www.cloudflare.com)
-
-[GitHub pages](https://pages.github.com/)
-
-[Hugo](https://gohugo.io)
-
-[Namecheap](https://www.namecheap.com)
-
-[Steve Francia](https://stevefrancia.com/)
-
-[七牛云存储](https://www.qiniu.com)
+- [Algolia](https://www.algolia.com)
+- [Cloudinary](https://cloudinary.com)
+- [Cloudflare](https://www.cloudflare.com)
+- [GitHub pages](https://pages.github.com/)
+- [Hugo](https://gohugo.io)
+- [Namecheap](https://www.namecheap.com)
+- [Steve Francia](https://stevefrancia.com/)
+- [七牛云存储](https://www.qiniu.com)
