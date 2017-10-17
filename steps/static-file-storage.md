@@ -13,7 +13,7 @@
 - 七牛云：https://www.qiniu.com
 - Cloudinary: https://www.cloudinary.com
 
-我将分别介绍两种云储存服务，及其各自的优缺点：
+我将分别介绍两种云储存服务，及其各自的优缺点。
 
 ### 七牛云存储
 
